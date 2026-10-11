@@ -17,6 +17,5 @@ public class EncapsulationExample {
 		e.setBalance(1000);
 		System.out.println("baance is :" +e.getBalance());
 		
-
 	}
 }
