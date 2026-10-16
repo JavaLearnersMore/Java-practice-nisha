@@ -16,8 +16,6 @@ public class A extends Thread{
 		}
 		
 		synchronized (lock2) {
-			
-		
 		
 	}
 	
